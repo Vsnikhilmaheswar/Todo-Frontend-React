@@ -1,0 +1,1 @@
+export const serverUrl = "https://todo-json-server-wik7.onrender.com"
